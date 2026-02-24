@@ -1,0 +1,8 @@
+# Ignorar el robot viejo
+robots/precios.py
+
+# Ignorar archivos de compilación
+build/
+dist/
+*.spec
+__pycache__/
